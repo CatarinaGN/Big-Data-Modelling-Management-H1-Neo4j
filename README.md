@@ -1,5 +1,7 @@
 # Big Data Modelling and Management: 🍺 The Beer Project - Graph Database Analysis 🍺
 
+**Grade**:19/20
+
 This project explores the use of **graph databases** to analyze beer and brewery data, leveraging the power of **Neo4j** and the **Cypher** query language. It was developed as part of an academic assignment in the context of Big Data Modeling, focusing on graph-based data analysis and optimization.
 
 The dataset, originally sourced from **Kaggle** and curated by **Evan Hallmark**, includes information on beers, breweries, user reviews, and associated metadata such as alcohol content, beer style, and review scores (e.g., smell, feel, taste).
